@@ -23,7 +23,7 @@ console.log(`${client.guilds.size} Sunucuyu + ${client.users.size} Kullanıcıy�
 		
         "🔥 Bot News 🔥 Hesapla Ve Emoji Komutları Gelmiştir",
 		
-		"Botumuz Hakkında Bilgi İçin c!bilgi Botun Davet Linki İçin c!davet Yazınız",
+		"Botumuz Hakkında Bilgi İçin z!bilgi Botun Davet Linki İçin z!davet Yazınız",
 		
 		"Botumuz Yeni Ve Gelişmekte Olan Bir Bottur Bize Destek İçin Botumuzu Sunucularınıza Eklemeyi Unutmayın 👍",
 	
@@ -38,7 +38,7 @@ console.log(`${client.guilds.size} Sunucuyu + ${client.users.size} Kullanıcıy�
 
         var random = Math.floor(Math.random()*(Games.length-0+1)+0);
 
-        client.user.setGame(Games[random], "https://www.twitch.tv/iwallysyt");
+        client.user.setGame(Games[random], "https://www.twitch.tv/zodivac");
         }, 2 * 2500);
 
 };
