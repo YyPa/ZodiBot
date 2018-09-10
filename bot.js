@@ -88,7 +88,7 @@ client.on('guildMemberAdd', member => {
  .setThumbnail(member.user.avatarURL || member.user.defaultAvatarURL)
  .setTitle('Üye katıldı Ve Otomatik Rol Verildi;')
  .setDescription(`Sunucuya katıldı Toplam [${member.guild.memberCount} üye]!`)
- .setFooter('Cait Army', client.user.avatarURL)
+ .setFooter('ZodiBot', client.user.avatarURL)
  .setTimestamp()
  channel.send(embed);
 });
@@ -103,7 +103,7 @@ client.on('guildMemberRemove', member => {
  .setThumbnail(member.user.avatarURL || member.user.defaultAvatarURL)
  .setTitle('Üye ayrıldı;')
  .setDescription(`Sunucudan ayrıldı [${member.guild.memberCount} üye]!`)
- .setFooter('Cait Army', client.user.avatarURL)
+ .setFooter('ZodiBot', client.user.avatarURL)
  .setTimestamp()
  channel.send(embed);
 });
