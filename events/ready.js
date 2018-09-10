@@ -19,7 +19,7 @@ console.log(`${client.guilds.size} Sunucuyu + ${client.users.size} Kullanıcıy�
 
     var Games = [
 
-        "Bize Destek Olmak İçin İninal Barkodumuza Bağış Yapabilirsiniz. Daha Fazla Bilgi İçin; c!bağış",
+        "Bize Destek Olmak İçin İninal Barkodumuza Bağış Yapabilirsiniz. Daha Fazla Bilgi İçin; z!bağış",
 		
         "🔥 Bot News 🔥 Hesapla Ve Emoji Komutları Gelmiştir",
 		
