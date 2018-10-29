@@ -25,7 +25,7 @@ console.log(`${client.guilds.size} Sunucuyu + ${client.users.size} Kullanıcıy�
 		
 		"Botumuz Hakkında Bilgi İçin z!bilgi Botun Davet Linki İçin z!davet Yazınız",
 		
-		"Botumuz Yeni Ve Gelişmekte Olan Bir Bottur Bize Destek İçin Botumuzu Sunucularınıza Eklemeyi Unutmayın 👍",
+		"www.twitch.tv/zodivac Özel Botdur",
 	
      	"Kötü Kelimeleri izliyor",
 		
